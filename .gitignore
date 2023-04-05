@@ -129,5 +129,10 @@ dmypy.json
 .pyre/
 
 # Other
+.gitignore/
+.vscode/
+.mypy_cache/
+venv/
 my_test.py
 temp.py
+
