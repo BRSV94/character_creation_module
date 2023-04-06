@@ -132,8 +132,5 @@ dmypy.json
 .git/
 .vscode/
 .mypy_cache/
-venv/
-my_test.py
-temp.py
 .gitignore
 
